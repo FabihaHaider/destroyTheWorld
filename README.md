@@ -1,2 +1,2 @@
-# destroyTheWorld
+# DestroyTheWorld
 I want to create an app that effectively destroys the world!
